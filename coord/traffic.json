@@ -1,0 +1,518 @@
+[
+    {
+        "id": "24354215",
+        "points": [
+            [
+                77.6603493,
+                12.8417296
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "26676558",
+        "points": [
+            [
+                77.6413567,
+                12.8427186
+            ]
+        ],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "38753432",
+        "points": [
+            [
+                77.681572,
+                12.8292991
+            ]
+        ],
+        "value": 3,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "46714873",
+        "points": [
+            [
+                77.657128012331,
+                12.8385317
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "46714878",
+        "points": [
+            [
+                77.656332744902,
+                12.83847415
+            ]
+        ],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "160512744",
+        "points": [
+            [
+                77.6654514,
+                12.8546961
+            ]
+        ],
+        "value": 50,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "231339922",
+        "points": [
+            [
+                77.654861260495,
+                12.83879945
+            ]
+        ],
+        "value": 40,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "231342985",
+        "points": [
+            [
+                77.65382238463,
+                12.83949105
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "231353798",
+        "points": [
+            [
+                77.659244754404,
+                12.83902885
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "231524908",
+        "points": [
+            [
+                77.6597502,
+                12.8507931
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "257454067",
+        "points": [
+            [
+                77.659458197096,
+                12.84018335
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "257478116",
+        "points": [
+            [
+                77.659842930702,
+                12.84263195
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "264075741",
+        "points": [
+            [
+                77.659922289192,
+                12.84204165
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "264102892",
+        "points": [
+            [
+                77.659395346653,
+                12.8398681
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "264102954",
+        "points": [
+            [
+                77.6590031,
+                12.84528745
+            ]
+        ],
+        "value": 3,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "264191750",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "266740082",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "266740470",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "266740687",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 40,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "283544258",
+        "points": [
+            [
+                77.658381022307,
+                12.84632925
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "312061905",
+        "points": [
+            [
+                77.6618873,
+                12.8541217
+            ]
+        ],
+        "value": 50,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "338949139",
+        "points": [
+            [
+                77.647803602301,
+                12.8418718
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "351551438",
+        "points": [
+            [
+                77.659221351906,
+                12.83935845
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "362976257",
+        "points": [
+            [
+                77.6604463,
+                12.85224
+            ]
+        ],
+        "value": 60,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "392213810",
+        "points": [
+            [
+                77.6626149,
+                12.8583506
+            ]
+        ],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "398453611",
+        "points": [
+            [
+                77.649549208578,
+                12.8415509
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "459454508",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "459454509",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "459464845",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1586948312",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1586948313",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1595181171",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1595181184",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1596076531",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 40,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1603379596",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1603379667",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1670130541",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1772566617",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1782809599",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1867682297",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "1867682300",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 30,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "2147483647",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 3,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    },
+    {
+        "id": "2435421",
+        "points": [
+            [
+                0,
+                0
+            ]
+        ],
+        "value": 80,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    }
+]
