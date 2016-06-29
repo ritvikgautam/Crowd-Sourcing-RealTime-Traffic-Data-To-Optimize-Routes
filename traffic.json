@@ -1,0 +1,27 @@
+[{
+	"id": "1",
+        "points": [[6.827273, 51.190264]],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    }, {
+        "id": "123",
+        "points": [[6.777964, 51.192927]],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    }, {
+        "id": "125",
+        "points": [[76.660958, 12.841155]],
+        "value": 20,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    }, {
+        "id": "126",
+        "points": [[77.660, 12.840]],
+        "value": 10,
+        "value_type": "speed",
+        "mode": "REPLACE"
+    }
+
+]
